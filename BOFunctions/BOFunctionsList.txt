@@ -1,0 +1,8 @@
+gets
+strcpy
+strcat
+sprintf
+scanf
+fscanf
+getwd
+realpath
